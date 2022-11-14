@@ -1,1 +1,1 @@
-The temperature data files we used were too large to upload to Github and can be found at this [Box link](https://stanfordmedicine.app.box.com/folder/181706189082) instead
+The raw temperature and ambulatory data files we used were too large to upload to Github and can be found in this [Box folder](https://stanfordmedicine.app.box.com/folder/181706189082) instead. To reproduce this analysis, download and copy the files in Box (retaining the file structure as it appears) to this subfolder. 
