@@ -12,8 +12,6 @@ This respository contains all code used to produce the [RShiny App](https://anna
 
 **`2-data-processing` :** folder containing scripts to merge all data sources
 
-**`3-fig-tab` :** folder containing scripts to produce tables and plots.
-
 **`nchs-data-viz` :** folder containing code to create interactive plots and shiny app
 
 **`data` :** folder containing all raw and cleaned data for data visualization
